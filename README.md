@@ -10,5 +10,5 @@ Some nescessary PHP extensions in your IDEs
 PHP Server in your system
 Telebot is also needed in your IDEs After installing all necessary dependency in your IDEs your can run this code properly
 
-[Demo 1](image1.png)
-[Demo 2](image2.png)
+![Demo 1](image1.png)
+![Demo 2](image2.png)
